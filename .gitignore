@@ -1,8 +1,11 @@
-bject files
+Object files
 *.o
 *.ko
 *.obj
 *.elf
+*.d
+*.bin
+*.out
 
 # Precompiled Headers
 *.gch
